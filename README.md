@@ -1,2 +1,8 @@
-# dh-noturno-aula07
+Digitala House - Turma 04
+
+Full Stack Java
+
 Repositório da Aula 07
+
+- Git
+- Javascript
