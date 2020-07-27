@@ -1,4 +1,4 @@
-Digitala House - Turma 04
+Digital House - Turma 04
 
 Full Stack Java
 
